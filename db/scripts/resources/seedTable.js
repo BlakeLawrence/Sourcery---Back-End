@@ -6,8 +6,9 @@ async function populateTable() {
     {
       name: "Blake Lawrence",
       url: "http://www.postman.com",
-      description: "this is postman, great for sorting out routes",
-      likes: 4,
+      description:
+        "this is postman, it's a great site for testing out your routes",
+      likes: 0,
       week: 1,
     },
   ];
